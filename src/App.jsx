@@ -7,7 +7,7 @@ import ImgSection12 from "#/Image (12).png"
 import ImgSection13 from "#/Image (13).png"
 import CardsAbout from '@/cardsAbout.jsx'
 import CardC from '@/cardC.jsx'
-import CardsPerson from '@/CardsPerson.jsx'
+import CardsPerson from '@/cardsPerson.jsx'
 import ImageAppStore from '#/image 288.png'
 import ImagePlayMarket from "#/image 289.png"
 import ImageMobile from "#/mobile.png"
