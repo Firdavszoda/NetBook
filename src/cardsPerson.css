@@ -1,0 +1,9 @@
+.cardPerson
+{
+    width: 270px;
+    height: 316px;
+    box-shadow: 10px 10px 10px #7473801A;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 14px;
+}

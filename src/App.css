@@ -1,0 +1,143 @@
+.navbar
+{
+  max-width: 1400px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+}
+
+
+*
+{
+  font-family: sans-serif;
+}
+.inputNavbar
+{
+  width: 100px;
+  height: 30px;
+  border: 1px solid #E5E5E5;
+  padding: 5px;
+}
+.header
+{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background: linear-gradient(#FFFFFF,#D4E7FE);
+  margin-top: 50px;
+}
+.btnNetbook
+{
+  width: 170px;
+  height: 36px;
+  background-color: #E8F1FE;
+  border: none;
+  color: #217BF4;
+  border-radius: 8px;
+}
+.btnAbout
+{
+  width: 160px;
+  height: 60px;
+  background-color: #217BF4;
+  border: none;
+  color: white;
+  border-radius: 14px;
+}
+.btnInvite
+{
+    width: 160px;
+  height: 60px;
+  background-color: white;
+  border: 1px solid #217BF4;
+  color: #217BF4;
+  border-radius: 14px;
+}
+.section1
+{
+  max-width: 1400px;
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 100px;
+}
+.section3
+{
+  max-width: 1400px;
+  margin: auto;
+  margin-top: 100px;
+
+  
+}
+.actions
+{
+  width: 470px;
+  height: 70px;
+  background-color: #F2F7FE;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border-radius: 14px;
+  margin: auto;
+  margin-top: 30px;
+}
+.section4
+{
+  max-width: 1400px;
+  margin: auto;
+  margin-top: 100px;
+}
+.section5
+{
+  width: 100%;
+  height: 500px;
+  background-color: #E5F0FD;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+.section6
+{
+  max-width: 1400px;
+  margin: auto;
+  margin-top: 100px;
+}
+.footer
+{
+  width: 100%;
+  height: 400px;
+  background-color: #2B2B39;
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+  align-items: center;
+}
+.inpFooter
+{
+  width: 200px;
+  height: 40px;
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 12px;
+  padding-left: 20px;
+}
+.btnSubscribe
+{
+  width: 120px;
+  height: 48px;
+  border-radius: 12px;
+  border: none;
+}
+.footer2
+{
+  width: 100%;
+  height: 100px;
+  background-color: #20202D;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
